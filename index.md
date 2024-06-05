@@ -1,6 +1,6 @@
 ## Uygar Sahin - Group 23 - 2022402291
 
-Code Link
+Project - Group 23 - Code Link
 https://github.com/BU-IE-360/spring24-ayseyesilova/blob/main/htmlproject.html
 ```markdown
 Syntax highlighted code block
